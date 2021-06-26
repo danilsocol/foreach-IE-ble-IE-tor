@@ -1,0 +1,16 @@
+C:\Приложения\Проекты\foreach IE-ble IE-tor\foreach IE-ble IE-tor\bin\Debug\net5.0\foreach IE-ble IE-tor.exe
+C:\Приложения\Проекты\foreach IE-ble IE-tor\foreach IE-ble IE-tor\bin\Debug\net5.0\foreach IE-ble IE-tor.deps.json
+C:\Приложения\Проекты\foreach IE-ble IE-tor\foreach IE-ble IE-tor\bin\Debug\net5.0\foreach IE-ble IE-tor.runtimeconfig.json
+C:\Приложения\Проекты\foreach IE-ble IE-tor\foreach IE-ble IE-tor\bin\Debug\net5.0\foreach IE-ble IE-tor.runtimeconfig.dev.json
+C:\Приложения\Проекты\foreach IE-ble IE-tor\foreach IE-ble IE-tor\bin\Debug\net5.0\foreach IE-ble IE-tor.dll
+C:\Приложения\Проекты\foreach IE-ble IE-tor\foreach IE-ble IE-tor\bin\Debug\net5.0\ref\foreach IE-ble IE-tor.dll
+C:\Приложения\Проекты\foreach IE-ble IE-tor\foreach IE-ble IE-tor\bin\Debug\net5.0\foreach IE-ble IE-tor.pdb
+C:\Приложения\Проекты\foreach IE-ble IE-tor\foreach IE-ble IE-tor\obj\Debug\net5.0\foreach IE-ble IE-tor.csproj.AssemblyReference.cache
+C:\Приложения\Проекты\foreach IE-ble IE-tor\foreach IE-ble IE-tor\obj\Debug\net5.0\foreach IE-ble IE-tor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Приложения\Проекты\foreach IE-ble IE-tor\foreach IE-ble IE-tor\obj\Debug\net5.0\foreach IE-ble IE-tor.AssemblyInfoInputs.cache
+C:\Приложения\Проекты\foreach IE-ble IE-tor\foreach IE-ble IE-tor\obj\Debug\net5.0\foreach IE-ble IE-tor.AssemblyInfo.cs
+C:\Приложения\Проекты\foreach IE-ble IE-tor\foreach IE-ble IE-tor\obj\Debug\net5.0\foreach IE-ble IE-tor.csproj.CoreCompileInputs.cache
+C:\Приложения\Проекты\foreach IE-ble IE-tor\foreach IE-ble IE-tor\obj\Debug\net5.0\foreach IE-ble IE-tor.dll
+C:\Приложения\Проекты\foreach IE-ble IE-tor\foreach IE-ble IE-tor\obj\Debug\net5.0\ref\foreach IE-ble IE-tor.dll
+C:\Приложения\Проекты\foreach IE-ble IE-tor\foreach IE-ble IE-tor\obj\Debug\net5.0\foreach IE-ble IE-tor.pdb
+C:\Приложения\Проекты\foreach IE-ble IE-tor\foreach IE-ble IE-tor\obj\Debug\net5.0\foreach IE-ble IE-tor.genruntimeconfig.cache
